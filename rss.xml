@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LincolnBridgesNetwork]]></title>
         <description><![CDATA[LincolnBridgesNetwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lincolnbridgesnetwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 19:25:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 19:25:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lincolnbridgesnetwork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e4ed04-beac-4e05-bb28-8889fbb8466d.jpg">]]></description>
-            <link>undefined583a29b9-80cf-4215-a4ab-70ae688e7b7d/index.html</link>
+            <link>https://thegrid.ai/lincolnbridgesnetwork/583a29b9-80cf-4215-a4ab-70ae688e7b7d/index.html</link>
             <guid isPermaLink="false">583a29b9-80cf-4215-a4ab-70ae688e7b7d</guid>
-            <pubDate>Sat, 16 Jan 2016 19:25:05 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 19:25:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
